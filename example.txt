@@ -1,0 +1,104 @@
+jher:
+   Age:34
+   Payment method: Cash
+   Price: 10.5
+fo:
+   Age:44
+   Payment method: Cash
+   Price: 10.5
+rjn:
+   Age:31
+   Payment method: Cash
+   Price: 10.5
+iurgh:
+   Age:32
+   Payment method: Cash
+   Price: 10.5
+h:
+   Age:62
+   Payment method: Cash
+   Price: 10.5
+ghv:
+   Age:76
+   Payment method: Cash
+   Price: 6.5
+gh:
+   Age:76
+   Payment method: Card (5% surcharge)
+   Price: 6.825
+grfgre:
+   Age:76
+   Payment method: Card (5% surcharge)
+   Price: 6.825
+ui:
+   Age:34
+   Payment method: Cash
+   Price: 10.5
+b:
+   Age:56
+   Payment method: Cash
+   Price: 10.5
+yt:
+   Age:66
+   Payment method: Cash
+   Price: 6.5
+yt:
+   Age:66
+   Payment method: Cash
+   Price: 6.5
+it:
+   Age:48
+   Payment method: Cash
+   Price: 10.5
+iuf:
+   Age:32
+   Payment method: Cash
+   Price: 10.5
+fg:
+   Age:45
+   Payment method: Cash
+   Price: 10.5
+hbt:
+   Age:98
+   Payment method: Cash
+   Price: 6.5
+hbuj:
+   Age:34
+   Payment method: Cash
+   Price: 10.5
+yv:
+   Age:87
+   Payment method: Cash
+   Price: 6.5
+ib:
+   Age:43
+   Payment method: Cash
+   Price: 10.5
+ore:
+   Age:43
+   Payment method: Cash
+   Price: 10.5
+kuvhsf:
+   Age:67
+   Payment method: Cash
+   Price: 6.5
+kyuf:
+   Age:44
+   Payment method: Card (5% surcharge)
+   Price: 11.025
+iuygfs:
+   Age:64
+   Payment method: Card (5% surcharge)
+   Price: 11.025
+buykrs:
+   Age:78
+   Payment method: Cash
+   Price: 6.5
+iurv:
+   Age:83
+   Payment method: Card (5% surcharge)
+   Price: 6.825
+iurv:
+   Age:83
+   Payment method: Cash
+   Price: 6.5

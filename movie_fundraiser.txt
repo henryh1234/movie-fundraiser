@@ -1,0 +1,8 @@
+iufeab:
+   Age:14
+   Payment method: Cash
+   Price: 7.5
+kjsnbr:
+   Age:31
+   Payment method: Cash
+   Price: 10.5
